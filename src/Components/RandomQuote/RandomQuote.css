@@ -31,3 +31,10 @@
     font-size: 20px;
     font-weight: 500;
 }
+.icons{
+    display: flex;
+    gap: 40px;
+}
+.icons i {
+    cursor: pointer;
+}

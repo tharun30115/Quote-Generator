@@ -16,8 +16,8 @@ import './RandomQuote.css'
             <div className='bottom'>
                 <div className="author">{quote.author}</div>
                 <div className="icons">
-                    <i class='bx bx-ghost'></i>
-                    <i class='bx bxl-twitter'></i>
+                    <i class='bx bx-ghost bx-md'></i>
+                    <i class='bx bxl-twitter bx-md'></i>
                 </div>
             </div>
         </div>
