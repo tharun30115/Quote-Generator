@@ -26,3 +26,8 @@
     align-items: center;
     margin: 30px 0px;
 }
+.author{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+}
