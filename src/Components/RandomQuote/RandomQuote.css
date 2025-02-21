@@ -8,10 +8,14 @@
     width: 800px;
     border-radius: 15px;
 }
-
 .quote{
     padding: 60px 110px;
     color: white;
     font-size: 32px;
     text-align: center;
+}
+.line{
+    width: 680px;
+    height: 1.5px;
+    background: white;
 }
